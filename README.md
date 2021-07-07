@@ -1,5 +1,5 @@
 # Data Mining
-- Assignment 1 : 
+- Assignment 1 :   
 Keans and fuzzyCmeans from scratch and Unsupervised Cluster Evaluation with DB index and Silhouette index.
 
 - Assignment 2 :  
